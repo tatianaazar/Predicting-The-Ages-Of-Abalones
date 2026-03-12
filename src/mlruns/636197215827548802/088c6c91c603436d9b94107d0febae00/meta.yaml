@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/azart/Documents/MScDataScience/Data%20Mining/Project/src/mlruns/636197215827548802/088c6c91c603436d9b94107d0febae00/artifacts
+end_time: 1773323499268
+entry_point_name: ''
+experiment_id: '636197215827548802'
+lifecycle_stage: active
+run_id: 088c6c91c603436d9b94107d0febae00
+run_name: neural_network
+run_uuid: 088c6c91c603436d9b94107d0febae00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773323460936
+status: 3
+tags: []
+user_id: azart

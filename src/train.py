@@ -33,7 +33,7 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import Callback
 import tensorflow as tf
 
-from src.preprocess import preprocess
+from preprocess import preprocess
 
 RANDOM_STATE = 42
 TEST_SIZE = 0.10
