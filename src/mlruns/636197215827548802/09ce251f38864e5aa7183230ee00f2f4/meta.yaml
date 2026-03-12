@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/azart/Documents/MScDataScience/Data%20Mining/Project/src/mlruns/636197215827548802/09ce251f38864e5aa7183230ee00f2f4/artifacts
+end_time: 1773314707680
+entry_point_name: ''
+experiment_id: '636197215827548802'
+lifecycle_stage: active
+run_id: 09ce251f38864e5aa7183230ee00f2f4
+run_name: xgboost
+run_uuid: 09ce251f38864e5aa7183230ee00f2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773314707042
+status: 3
+tags: []
+user_id: azart
